@@ -29,4 +29,6 @@ B/s Recommendation: Focus on producing films that combine multiple genres, speci
 
 
 
-
+TABLEAU DASHBOARDS LINKS
+https://public.tableau.com/app/profile/brian.maching.a/viz/Book1_17544703853570/Dashboard1?publish=yes
+https://public.tableau.com/app/profile/brian.maching.a/viz/Book2_17544704259400/Dashboard2?publish=yes
